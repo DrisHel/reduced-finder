@@ -1,10 +1,10 @@
 {
-  "name": "url-shortener",
+  "name": "reduced-finder",
   "version": "0.0.0",
   "private": true,
   "scripts": {
-  "start": "node -r dotenv/config ./bin/www",
-  "dev": "npx nodemon -r dotenv/config ./bin/www"
+    "start": "npx nodemon -r dotenv/config ./bin/www",
+    "dev": "npx nodemon -r dotenv/config ./bin/www"
   },
   "dependencies": {
     "cookie-parser": "~1.4.6",
