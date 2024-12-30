@@ -12,6 +12,6 @@ $ npm install
 
 ```bash
 # development
-$ npm run start
+$ npm start
 
 ```
